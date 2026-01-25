@@ -2,7 +2,7 @@
 
 
 -# 💫 About Me:
-🔭 I’m 🔭 I’m currently working on<br>Frontend and full-stack web development projects with clean UI and smooth user experience.<br>👯 I’m looking to collaborate on<br>Web applications, open-source frontend projects, and full-stack products.<br>🤝 I’m looking for help with<br>Advanced frontend performance, scalable backend integration, and best practices.<br>🌱 I’m currently learning<br>Modern web technologies, frameworks, and real-world project architecture.<br>💬 Ask me about<br>Web development, UI design basics, project structure, and learning paths.<br>⚡ Fun fact<br>I love turning simple ideas into working web applications. working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m 🔭 I’m currently working on<br>Frontend and full-stack web development projects with clean UI and smooth user experience.<br>👯 I’m looking to collaborate on<br>Web applications, open-source frontend projects, and full-stack products.<br>🤝 I’m looking for help with<br>Advanced frontend performance, scalable backend integration, and best practices.<br>🌱 I’m currently learning<br>Modern web technologies, frameworks, and real-world project architecture.<br>💬 Ask me about<br>Web development, UI design basics, project structure, and learning paths.<br>⚡ Fun fact<br>I love turning simple ideas into working web applications. 
 
 
 ## 🌐 Socials:
